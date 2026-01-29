@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 Sofware Developer | Traveller<br>🏫 Universitas Muhammadiyah Malang<br>🏢 Part-Timer American Corner Malang<br>✨ Part of @digistarclub<br>📖 MSIB Batch 5 & 7<br><br><br><br>
-
+👨‍💻 Sofware Developer | Traveller<br>🏫 Universitas Muhammadiyah Malang<br>🏢 Part-Timer American Corner Malang<br>✨ Part of @digistarclub<br>📖 MSIB Batch 5 & 7<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi.ngrh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nugrohoadi11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeforce112002@gmail.com) 
